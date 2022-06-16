@@ -1,3 +1,3 @@
 # Simple Shell
 
-this will slap 
+A simple shell in C
